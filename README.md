@@ -1,4 +1,5 @@
 # jupyter-exploration
 
-## Project 1 - A01 ITAI 1378 Colab and other Tools Practice Run
-This repo is for my Computer Visualization Class
+## This repo is for my Computer Visualization Class
+Project 1 - A01 ITAI 1378 Colab and other Tools Practice Run
+- CReated file in JupyterLab thru SageMaker and uploaded thru Git Desktop.
